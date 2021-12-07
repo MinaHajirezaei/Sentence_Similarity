@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Python][python-shield]][project-url]
+[![MIT License][license-shield]][license-url]
+
 # Sentence Similarity
 
 To be completed...
@@ -88,3 +95,17 @@ To be completed...
 ## Acknowledgements
 
 To be completed...
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/MinaHajirezaei/Sentence_Similarity.svg
+[contributors-url]: https://github.com/MinaHajirezaei/Sentence_Similarity/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MinaHajirezaei/Sentence_Similarity.svg
+[forks-url]: https://github.com/MinaHajirezaei/Sentence_Similarity/network/members
+[stars-shield]: https://img.shields.io/github/stars/MinaHajirezaei/Sentence_Similarity.svg
+[stars-url]: https://github.com/MinaHajirezaei/Sentence_Similarity/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MinaHajirezaei/Sentence_Similarity.svg
+[issues-url]: https://github.com/MinaHajirezaei/Sentence_Similarity/issues
+[license-shield]: https://img.shields.io/github/license/MinaHajirezaei/Sentence_Similarity.svg
+[license-url]: https://github.com/MinaHajirezaei/Sentence_Similarity/blob/master/LICENSE.txt
+[python-shield]: https://img.shields.io/badge/python-2.7-green.svg
+[project-url]: https://github.com/MinaHajirezaei/Sentence_Similarity
